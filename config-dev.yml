@@ -1,2 +1,4 @@
 config: 
   name: dev6
+info: 
+  age: 30
