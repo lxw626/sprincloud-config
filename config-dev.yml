@@ -1,3 +1,2 @@
-person: 
-  name: lxw
-  age: 30
+config: 
+  name: dev
